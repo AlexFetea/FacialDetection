@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="376af05e-3621-4192-b038-27e93a08fa07" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/bucket/BucketName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/bucket/BucketName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/config/AmazonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/config/AmazonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/datastore/FakeUserProfileDataStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/datastore/FakeUserProfileDataStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/filestore/FileStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/filestore/FileStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/profile/UserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/profile/UserProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/profile/UserProfileDataAccessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileDataAccessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/profile/UserProfileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/awsimageupload/MainTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alexfetea/awsimageupload/MainTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BiTBgboD07r8iEjSUSwgySNday" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/alexfetea/eclipse-workspace/reactProject/spring-s3-react-file-upload/src/main/java/com/alexfetea/awsimageupload",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alexfetea.awsimageupload.Main" />
+      <module name="aws-image-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alexfetea.awsimageupload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.alexfetea.awsimageupload.config in aws-image-upload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aws-image-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alexfetea.awsimageupload.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alexfetea.awsimageupload.config" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.com.alexfetea.awsimageupload.config in aws-image-upload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="376af05e-3621-4192-b038-27e93a08fa07" name="Changes" comment="" />
+      <created>1657387773251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657387773251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_s3_react_file_upload$Main.ic" NAME="Main Coverage Results" MODIFIED="1657399540757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alexfetea.awsimageupload.*</FILTER>
+    </SUITE>
+  </component>
+</project>
