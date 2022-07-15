@@ -5,16 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="376af05e-3621-4192-b038-27e93a08fa07" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/bucket/BucketName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/bucket/BucketName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/config/AmazonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/config/AmazonConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/datastore/FakeUserProfileDataStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/datastore/FakeUserProfileDataStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/filestore/FileStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/filestore/FileStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/profile/UserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/profile/UserProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/profile/UserProfileDataAccessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileDataAccessService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/awsimageupload/profile/UserProfileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/amigoscode/awsimageupload/MainTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alexfetea/awsimageupload/MainTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/datastore/ImageDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/profile/ImageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/profile/ImageDataAccessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/profile/ImageEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/profile/ImageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/FacialDetection/FacialDetection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/bucket/BucketName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/config/AmazonConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/datastore/FakeUserProfileDataStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/filestore/FileStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileDataAccessService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/alexfetea/awsimageupload/MainTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/FacialDetection/FacialDetection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/bucket/BucketName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/config/AmazonConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/datastore/FakeUserProfileDataStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/filestore/FileStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/profile/UserProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/profile/UserProfileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/profile/UserProfileDataAccessService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/profile/UserProfileService.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +75,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/alexfetea/eclipse-workspace/reactProject/spring-s3-react-file-upload/src/main/java/com/alexfetea/awsimageupload",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "editorconfig.notification": "lf;",
+    "last_opened_file_path": "/Users/alexfetea/eclipse-workspace/reactProject/spring-s3-react-file-upload",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
@@ -63,16 +92,17 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/imageFolder" />
       <recent name="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.alexfetea.facialDetection.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alexfetea.awsimageupload.Main" />
-      <module name="aws-image-upload" />
+      <option name="MAIN_CLASS_NAME" value="com.alexfetea.facialDetection.Main" />
+      <module name="facial-detection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alexfetea.awsimageupload.*" />
+          <option name="PATTERN" value="com.alexfetea.facialDetection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,7 +111,7 @@
       </method>
     </configuration>
     <configuration name="com.alexfetea.awsimageupload.config in aws-image-upload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="aws-image-upload" />
+      <module name="facial-detection" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.alexfetea.awsimageupload.config.*" />
@@ -94,9 +124,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="facial-detection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="facial-detection" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.alexfetea.facialDetection.Main" />
         <item itemvalue="JUnit.com.alexfetea.awsimageupload.config in aws-image-upload" />
       </list>
     </recent_temporary>
@@ -122,6 +165,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.fasterxml.jackson.databind.exc.InvalidDefinitionException" package="com.fasterxml.jackson.databind.exc" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/spring_s3_react_file_upload$Main.ic" NAME="Main Coverage Results" MODIFIED="1657399540757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

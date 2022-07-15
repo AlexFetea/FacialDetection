@@ -1,4 +1,4 @@
-# image-upload-spring-boot-react
+# imageEntry-upload-spring-boot-react
 
 <img width="1231" alt="Screenshot 2019-10-10 at 21 56 42" src="https://user-images.githubusercontent.com/40702606/66605971-035df380-eba9-11e9-9f03-2067756be318.png">
 

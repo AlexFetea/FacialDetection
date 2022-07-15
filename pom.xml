@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.amigoscode</groupId>
-	<artifactId>aws-image-upload</artifactId>
+	<artifactId>aws-imageEntry-upload</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aws-image-upload</name>
+	<name>aws-imageEntry-upload</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

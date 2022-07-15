@@ -4,39 +4,37 @@ import './App.css';
 import axios from "axios";
 import {useDropzone} from 'react-dropzone'
 
-const UserProfiles = () =>{
+const ImageEntries = () =>{
 
-const [userProfiles, setUserProfiles] = useState([]);
+const [imageEntries, setImageEntries] = useState([]);
 
-  const fetchUserProfiles = () =>{
-    axios.get("http://localhost:8080/api/v1/user-profile").then(res =>{
+  const fetchImageEntries = () =>{
+    axios.get("http://localhost:8080/api/v1/image-entry").then(res =>{
       console.log(res);
       const data = res.data;
-      setUserProfiles(res.data);
+      setImageEntries(res.data);
     });
   };
 
   useEffect(() =>{
-  fetchUserProfiles();
+  fetchImageEntries();
   }, []);
 
-  return userProfiles.map((userProfile, index) =>{
+  return imageEntries.map((imageEntry, index) =>{
 
     return(
+
       <div key={index}>
-        <h1>Welcome to Face Detector</h1>
-        {userProfile.userProfileId ? <img src={`http://localhost:8080/api/v1/user-profile/${userProfile.userProfileId}/image/download`}/> : null}
+        {imageEntry.imageId ? <img src={`http://localhost:8080/api/v1/image-entry/${imageEntry.imageId}/image/download`}/> : null}
         <br/>
         <br/>
-        <h1>{userProfile.username}</h1>
-        <p>{userProfile.userProfileId}</p>
-        <Dropzone userProfileId = {userProfile.userProfileId}/>
+        <Dropzone imageId = {imageEntry.imageId}/>
         <br/>
       </div>
     )
   })
 };
-function Dropzone({userProfileId}) {
+function Dropzone({imageId}) {
   const onDrop = useCallback(acceptedFiles => {
     const file = acceptedFiles[0];
     
@@ -45,7 +43,7 @@ function Dropzone({userProfileId}) {
     const formData = new FormData();
     formData.append("file", file);
 
-    axios.post(`http://localhost:8080/api/v1/user-profile/${userProfileId}/image/upload`, formData,
+    axios.post(`http://localhost:8080/api/v1/image-entry/${imageId}/image/upload`, formData,
     {
       headers:{
         "Content-Type": "multipart/form-data"
@@ -74,7 +72,8 @@ function Dropzone({userProfileId}) {
 function App() {
   return (
     <div className="App">
-      <UserProfiles />
+    <h1>Welcome to Face Detector</h1>
+      <ImageEntries />
       
     </div>
   );
