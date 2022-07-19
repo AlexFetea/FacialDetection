@@ -5,42 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="376af05e-3621-4192-b038-27e93a08fa07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/datastore/ImageDataStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/profile/ImageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/profile/ImageDataAccessService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/profile/ImageEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/profile/ImageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/FacialDetection/FacialDetection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/bucket/BucketName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/config/AmazonConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/datastore/FakeUserProfileDataStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/filestore/FileStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alexfetea/facialDetection/image.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileDataAccessService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alexfetea/awsimageupload/profile/UserProfileService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/alexfetea/awsimageupload/MainTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/FacialDetection/FacialDetection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/bucket/BucketName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/config/AmazonConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/datastore/FakeUserProfileDataStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/filestore/FileStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/profile/UserProfile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/profile/UserProfileController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/profile/UserProfileDataAccessService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/alexfetea/awsimageupload/profile/UserProfileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
