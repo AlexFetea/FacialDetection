@@ -35,7 +35,6 @@ I worked on this project because to learn about RESTful APIs
           
 | Backend |
 |---       |
-
 | Spring |
 | Java  |
 | OpenCV  |
@@ -46,7 +45,7 @@ I worked on this project because to learn about RESTful APIs
 
 ## Setting up the frontend
 
-Requirements: `node`, `npm`
+Requirements: `npm` and `maven`
 
 Clone the repository and install npm packages in src/main/frontend:
 ```
