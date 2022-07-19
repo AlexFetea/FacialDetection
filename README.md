@@ -12,22 +12,31 @@ Have an image containing any faces?
 # About
 I worked on this project because to learn about RESTful APIs
 
-# Tech stack
+# Front End
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="75px"/>
 </p>
+
 
 
 | Frontend |
 |---       |
-| React.js    |
-| Dropzone |
-| Webpack |
+| React.js |
+| Node.js  |
 
+# Back end
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="75px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="75px"/>
+</p>
+          
 | Backend |
 |---       |
-| Node.js  |
-| Spring Boot  |
+
+| Spring |
 | Java  |
 | OpenCV  |
 
