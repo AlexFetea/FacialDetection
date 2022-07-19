@@ -36,34 +36,23 @@ I worked on this project because to learn about RESTful APIs
 
 # Local Development
 
-## Setting up the backend
+## Setting up the frontend
 
 Requirements: `node`, `npm`
 
-Clone the repository and install npm packages in backend:
+Clone the repository and install npm packages in src/main/frontend:
 ```
-cd backend
+cd src/main/frontend
 npm install
 ```
-
 Start the app:
-```
-npm run dev
-```
-Visit `https://localhost:3001/`
-
-Done!
-
-## Setting up the frontend (optional)
-Install npm packages in frontend:
-```
-cd frontend
-npm install
-```
-Start the frontend
 ```
 npm start
 ```
-Visit `https://localhost:3000/` (Note: The backend must be running!)
+Visit `https://localhost:3000/`
+
+Done!
+
+## Setting up the backend
 
 Done!
