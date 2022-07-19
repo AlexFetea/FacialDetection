@@ -1,16 +1,14 @@
 # Facial Detection
 
-Have an image containing any faces?
+Have an image containing faces?
 
 <div align="center">
-    <img src="./ReadMe-Images/front-end-upload.png" width="500"></a>
-</div>
-<div align="center">
-    <img src="./ReadMe-Images/front-end-final.png" width="500"></a>
+    <img src="./ReadMe-Images/front-end-upload.png" height="350"></a>
+    <img src="./ReadMe-Images/front-end-final.png" height="350"></a>
 </div>
 
 # About
-I worked on this project because to learn about RESTful APIs
+This full stack project allows the user to upload any image to the site. The image will be proccessed on the backend and returned to the sight with all of the human faces boxed/squared.
 
 # Front End
 <p>
@@ -40,26 +38,22 @@ I worked on this project because to learn about RESTful APIs
 | OpenCV  |
 
 
-
 # Local Development
-
-## Setting up the frontend
 
 Requirements: `npm` and `maven`
 
-Clone the repository and install npm packages in src/main/frontend:
+## Setting up the backend
+
+Clone the repository and go to intall location via terminal
+```
+mvn spring-boot:run
+```
+## Setting up the frontend
+
+Install npm packages and start app in src/main/frontend:
 ```
 cd src/main/frontend
 npm install
-```
-Start the app:
-```
 npm start
 ```
 Visit `https://localhost:3000/`
-
-Done!
-
-## Setting up the backend
-
-Done!
